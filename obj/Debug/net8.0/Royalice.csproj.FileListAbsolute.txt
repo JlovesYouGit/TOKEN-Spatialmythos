@@ -1,0 +1,14 @@
+E:\DOWNLOADs\royalice\bin\Debug\net8.0\Royalice.exe
+E:\DOWNLOADs\royalice\bin\Debug\net8.0\Royalice.deps.json
+E:\DOWNLOADs\royalice\bin\Debug\net8.0\Royalice.runtimeconfig.json
+E:\DOWNLOADs\royalice\bin\Debug\net8.0\Royalice.dll
+E:\DOWNLOADs\royalice\bin\Debug\net8.0\Royalice.pdb
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\Royalice.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\Royalice.AssemblyInfoInputs.cache
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\Royalice.AssemblyInfo.cs
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\Royalice.csproj.CoreCompileInputs.cache
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\Royalice.dll
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\refint\Royalice.dll
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\Royalice.pdb
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\Royalice.genruntimeconfig.cache
+E:\DOWNLOADs\royalice\obj\Debug\net8.0\ref\Royalice.dll
