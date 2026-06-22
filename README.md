@@ -3,6 +3,14 @@
 ## What is this?
 This project is a unique integration between a quantum-inspired spatial simulation (Royalice) and multiple LLMs (Claude, Gemini, ChatGPT, Grok, Kimi). It creates a **bridge between simulated spatial physics and LLM APIs**, using "waveform channel communication" and token-based access control tied to spatial coordinates and RAM allocation.
 
+## What Makes This Unique?
+1. **Deep Ties to a Physics Simulation**: This is NOT just a standalone API wrapper! Every single communication event is linked to real (simulated) spatial coordinates from Royalice density manipulation.
+2. **Waveform Channel / MAC Broadcast Metaphor**: Instead of plain HTTP calls, messages are sent over simulated "waveform channels" with frequency discovery and coordinate-based locking.
+3. **Coordinate-Locked RAM Allocation**: Buffer size scales directly with the magnitude of the spatial coordinate you're locked to! Bigger coordinate = more RAM allocated!
+4. **Triple-Layer Access Control**: Permissions + spatial lock + token expiration! Tokens aren't just bits; they're tied to a specific point in the simulation.
+5. **Multi-Model as Standard**: Out-of-the-box support for 5 major LLMs with one-command broadcast (send same message to all simultaneously).
+6. **Quantum-Inspired + Practical**: Blends Hawking radiation simulation, hash space folding, and real LLM API calls into one cohesive system!
+
 ## Key Features
 
 1. **Waveform-Channel LLM Communication**
